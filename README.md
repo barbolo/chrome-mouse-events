@@ -15,3 +15,5 @@ Chrome extension that log mouse events and allows you to download them. It might
 5. Click **Load unpacked** button and select the directory where you've cloned the repository.
 
 6. Pin the **Mouse Events** extension to your toolbar.
+
+7. Refresh all open tabs so the extension can collect mouse movements from all of them.
