@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  min-width: 100px;
+}
+
+button {
+  width: 100px;
+  margin: 2px;
+}
+
+.danger {
+  color: red;
+  font-weight: bold;
+}
+
+.small {
+  font-size: 0.8em;
+}
